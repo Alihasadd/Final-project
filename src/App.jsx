@@ -9,6 +9,7 @@ function App() {
   return (
     <div>
       <h1>Portfolio</h1>
+      <navbar />
       <div className='dark-light-mode'>
         <label class="switch" >
           <input type='checkbox' />
