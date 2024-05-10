@@ -2,8 +2,8 @@ import React from 'react'
 
 function navbar() {
   return (
-    <div className=''>
-      <h1 className='bg-indigo-900'>Navbar</h1>
+    <div className='border-2 border-rose-600'>
+      <h1 className='text-'>Navbar</h1>
     </div>
   )
 }
