@@ -21,8 +21,19 @@ function App() {
       <p className="paragraph 3">Santiago has been to over 20 states and loves to travel. Here are some of his favorite places we've been.</p>
 
       <ul>
-        <li></li>
+        <li>New York</li>
+        <li>Washington DC</li>
+        <li>Philadelphia</li>
+        <li>Seattle</li>
+        <li>Portland</li>
+        <li>Atlanta</li>
+        <li>San Francisco</li>
+        <li>Los Angeles</li>
+        <li>Miami</li>
+        <li>Boston</li>
       </ul>
+
+
       <div className='grid grid-cols-4 gap-4'>
         <img src={seattle} className='p-2'/>
         <img src={sanfran} />
